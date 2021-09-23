@@ -10,3 +10,14 @@ Automated Decision Making Systems are often opaque and surrounded by a halo of t
 Demistify Automated Decision Making Systems via a game that will bring users to discover the patterns underlying the behaviour of the system. The game will be organized in levels of increasing complexity in the patterns governing the system responses. 
 
 Initially, we are thinking about a recommender system. Further developments involve other kinds of predictive systems, and feeding examples or rules to the system to modify its behavior. The user will be able to explore the examples and rules and to modify them in a guided way.
+
+## How to join ##
+[e-mail me](mailto:lauraalonsoalemany@gmail.com)
+
+### Contributor Profiles ###
+* Machine learning experts
+* Machine learning backend developers
+* Developers wanting to obtain some machine learning experience
+* People wanting to obtain some programming experience
+* Artists
+* Gamification experts
