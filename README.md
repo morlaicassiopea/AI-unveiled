@@ -3,6 +3,8 @@ AI unveiled: a game to discover patterns, shape patterns in AI systems
 
 The aim of this project is to create a game for users to learn how to discover how AI systems behave in their interactions.
 
+Part of the MozFest Building Trustworthy AI Working Groups
+
 ## Problem ##
 Automated Decision Making Systems are often opaque and surrounded by a halo of technomysticism that renders users virtually powerless to effectively question them. 
 
